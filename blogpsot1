@@ -1,0 +1,111 @@
+
+gpost
+================================================================================
+ 
+.. contents::
+ 
+English
+================================================================================
+ 
+Tablet PCs were given to Centrale Nantes when the school won a non lucratif and
+pedagogic competition organised by HP on "The use of Tablet PC for learning
+purpose".
+ 
+Since then, educationnal staff exploits HP technology to improve evaluation
+process. Beyond an easier way of creating learning contents, mibiles connected
+devices allow new application such as instantaneous presence assessment, or
+electronic evaluation. Online and immediate grading process allows savong more
+than 4 000 paper sheet (for first year courses).
+ 
+In the aim of improving instant grading process, a team of two students of
+third year will work on Markus,
+an open source project developped at the University of Toronto since more than
+2 years. These two students will study the possibility of deploying Markus at
+Centrale Nantes and and will proceed to functionnalities development in order to
+do so.
+During the same time, a second year student is voluntarely proceeding the
+internationnalization of the application, so to be able to translate it when the
+time comes.
+ 
+ 
+MarkUs is an open-source tool which recreates the ease
+and flexibility of grading assignments with pen on paper, within a web
+application. It also allows students and instructors to form groups, and
+collaborate on assignments using command ligne SVN, or through the web app
+(which allows to add, replace and delete files very easily).
+ 
+- Group management: the groups should be formed of two to three students of the
+  same section ;
+- Deadlines : Each section needs to be associated with one specific deadline.
+  Moreover, we need to make appear the differences between the work that has
+  been submitted before the deadline and after ;
+- Marks should be displayed in comments and not percentage ;
+- The students should be able to see the name of the grader ;
+- Possibility of deploying metrics to check the students code isn't a savage
+  copy/paste ;
+- When exporting the students code, create repository with the name of the
+  students that has done the work, instead of the name of the group ;
+ 
+For more details on Markus:
+ 
+* website : markusproject.org
+* blog: blog.markusproject.org
+ 
+ 
+Français
+================================================================================
+ 
+Des tablets PC ont été obtenu par un concours à but pédagogique et non
+lucratif, organisé par HP sur "L'utilisation du Tablet PC dans l'enseignement".
+ 
+Depuis, l'équipe enseignante exploite la technologie HP dans le but d'améliorer
+le processus d'évaluation des élèves. Au délà d'un moyen de création plus aisé
+des cours, ces appareils portables et connectés en permanence permettent
+l'utilisation de nouvelles applications comme la vérification instantanée de la
+présence en cours, ou l'évaluation en directe des élèves, et ce, sans avoir à
+imprimer le travail fournis par l'élève. La technologie HP permet d'économiser
+plus de 4 000 feuilles de papier, rien que pour le cours d'informatique de 1er
+année !
+ 
+Dans le but d'améliorer les processus de correction du code produit par les
+étudiants, une équipe de 2 étudiants de troisième année travaillera sur Markus,
+un projet open-source développé à l'Université depuis plus de 2 ans:
+Ces deux étudiants étudieront la faisabilité du déploiement à l'Ecole Centrale de Nantes et de
+procéder aux développements informatiques nécessaire pour y parvenir.
+En parallèle, un étudiant de 2ème année procède à l'internationnalisation de
+l'application, afin de pouvoir la traduire en français le temps voulu.
+ 
+Markus est une application web destinée à simplifier la tâche de correction du
+code rendu par les étudiants dans le cadre de TP ou projets d'informatique. MarkUs confère la
+même facilité et souplesse de correction que l'on a avec un papier et un crayon.
+Il permet aussi aux responsables d'enseignement et aux étudiants de former des
+groupes de travail, et de travailler sur des projets en utilisant un SVN par
+ligne de commande, ou via l'application web (qui permet d'ajouter, de remplacer,
+ou de supprimer des fichiers très simplement).
+ 
+Après une étude préliminaire, les fonctinnalités suivantes seront implémentés
+durant ce projet:
+ 
+* gestion des dates butoirs : à chaque groupe de TP doit pouvoir être
+  associée une date butoir différente. En outre, il faudra faire en sorte
+  qu'apparaissent bien les différences entre le travail rendu à la date
+  butoir et ce qui a été (éventuellement) mis en ligne ensuite ;
+* affichage des notes sous forme d'appréciation et non plus de
+  pourcentage ;
+* affichage du nom du correcteur dans la vue "étudiant" ;
+* gestion des groupes : restreindre les binômes (voire trinômes)
+  à des membres du même groupe de TD
+* possibilité de déployer des métriques pour vérifier que le
+  code proposé par les étudiants ne résulte pas de
+  copier/coller sauvages ;
+* lors de l'export du travail proposé par les étudiants,
+  faire en sorte que les répertoires issus de la
+  récupération des dépôts Subversion aient bien pour
+  intitulé le nom des personnes ayant effectué le travail ;
+ 
+Pour plus de détails sur Markus:
+ 
+* site-web: markusproject.org
+* blog: blog.markusproject.org
+ 
+ 
